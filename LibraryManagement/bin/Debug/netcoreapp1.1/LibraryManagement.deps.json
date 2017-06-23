@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "librarymanagement/1.0.0": {
+        "dependencies": {
+          "LogInPage": "1.0.0"
+        },
         "runtime": {
           "LibraryManagement.dll": {}
+        }
+      },
+      "businesslayer/1.0.0": {
+        "runtime": {
+          "BusinessLayer.dll": {}
+        }
+      },
+      "loginpage/1.0.0": {
+        "dependencies": {
+          "BusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "LogInPage.dll": {}
         }
       }
     }
   },
   "libraries": {
     "librarymanagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "businesslayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "loginpage/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

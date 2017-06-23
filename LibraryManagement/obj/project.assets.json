@@ -2266,6 +2266,33 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.4",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/netstandard1.4/BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/netstandard1.4/BusinessLayer.dll": {}
+        }
+      },
+      "LogInPage/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.4",
+        "dependencies": {
+          "BusinessLayer": "1.0.0",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/netstandard1.4/LogInPage.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/netstandard1.4/LogInPage.dll": {}
+        }
       }
     }
   },
@@ -7029,10 +7056,21 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../BusinessLayer/BusinessLayer.csproj",
+      "msbuildProject": "../BusinessLayer/BusinessLayer.csproj"
+    },
+    "LogInPage/1.0.0": {
+      "type": "project",
+      "path": "../LogInPage/LogInPage.csproj",
+      "msbuildProject": "../LogInPage/LogInPage.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
+      "LogInPage >= 1.0.0",
       "Microsoft.NETCore.App >= 1.1.2"
     ]
   },
@@ -7055,7 +7093,11 @@
       },
       "frameworks": {
         "netcoreapp1.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LogInPage\\LogInPage.csproj": {
+              "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LogInPage\\LogInPage.csproj"
+            }
+          }
         }
       }
     },
