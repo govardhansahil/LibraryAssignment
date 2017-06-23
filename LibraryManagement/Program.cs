@@ -1,18 +1,4 @@
-<<<<<<< HEAD
-﻿using System;
-
-namespace LibraryManagement
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            
-        }
-    }
-}
-=======
-﻿using System;
+using System;
 
 namespace LibraryManagement
 {
@@ -47,4 +33,3 @@ namespace LibraryManagement
         }
     }
 }
->>>>>>> master
