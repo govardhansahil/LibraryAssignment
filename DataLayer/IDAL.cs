@@ -1,0 +1,8 @@
+namespace Datalayer
+{
+    interface IName
+    {
+        
+    }
+    
+}

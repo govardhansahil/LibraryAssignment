@@ -3,17 +3,17 @@ using BusinessLayer;
 
 namespace LogInPage
 {
-    public class Authentor
+    public class Authentor : IAuthentorBAL
     {
-        GetUserData verify=new GetUserData();       
+        bool x;
+        ICredentialCheckBAL verify=new GetUserData();       
         public void UserLogIn(){
-            bool x;
             do{
             Console.WriteLine("Type Username:");
             string username=Console.ReadLine();
             Console.WriteLine("Enter Password:");
             string password=Console.ReadLine();
-            if(x=verify.CheckuserData(username, password)){
+            if(x=verify.CheckUserData(username, password)){
                 Console.WriteLine("-----WELCOME to LIBRARY-----");
 
             }
@@ -23,22 +23,25 @@ namespace LogInPage
         }
 
         public void AdminLogIn(){
-            
+            do{
             Console.WriteLine("Type Admin username:");
-            Console.ReadLine();
+            string username=Console.ReadLine();
             Console.WriteLine("Enter Admin Password:");
-            Console.ReadLine();
+            string password=Console.ReadLine();
+            if(x=verify.CheckAdminData(username,password))
+            Console.WriteLine("Logged in as ADMIN");
 
-            Console.WriteLine("ADMIN Params sent to BL");
+            }while(x!=true);
         }
         public void Register(){
 
 
         }
     }
-    public class AuthentorSelect{
+    public class AuthentorSelect : IAuthentorSelectBAL
+    {
         public int CallChoice(int choice){
-            Authentor obj=new Authentor();
+            IAuthentorBAL obj=new Authentor();
             switch (choice) {
                     case 1:
                         obj.UserLogIn();
