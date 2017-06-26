@@ -4,3 +4,11 @@ C:\Users\govardhan.nandi\Documents\LibraryAssignment\BusinessLayer\bin\Debug\net
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\BusinessLayer\obj\Debug\netstandard1.4\BusinessLayer.AssemblyInfo.cs
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\BusinessLayer\obj\Debug\netstandard1.4\BusinessLayer.dll
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\BusinessLayer\obj\Debug\netstandard1.4\BusinessLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\BusinessLayer\bin\Debug\netstandard1.4\BusinessLayer.deps.json
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\BusinessLayer\bin\Debug\netstandard1.4\BusinessLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\BusinessLayer\bin\Debug\netstandard1.4\BusinessLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\BusinessLayer\obj\Debug\netstandard1.4\BusinessLayer.AssemblyInfo.cs
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\BusinessLayer\obj\Debug\netstandard1.4\BusinessLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\BusinessLayer\obj\Debug\netstandard1.4\BusinessLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\BusinessLayer\bin\Debug\netstandard1.4\DataLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\BusinessLayer\bin\Debug\netstandard1.4\DataLayer.pdb

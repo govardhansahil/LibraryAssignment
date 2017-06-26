@@ -6,3 +6,13 @@ C:\Users\govardhan.nandi\Documents\LibraryAssignment\LogInPage\obj\Debug\netstan
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\LogInPage\obj\Debug\netstandard1.4\LogInPage.pdb
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\BusinessLayer.dll
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\BusinessLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\LogInPage.deps.json
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\LogInPage.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\LogInPage.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\BusinessLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\BusinessLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\obj\Debug\netstandard1.4\LogInPage.AssemblyInfo.cs
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\obj\Debug\netstandard1.4\LogInPage.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\obj\Debug\netstandard1.4\LogInPage.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\DataLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LogInPage\bin\Debug\netstandard1.4\DataLayer.pdb

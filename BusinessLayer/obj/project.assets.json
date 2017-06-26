@@ -3708,16 +3708,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\BusinessLayer\\BusinessLayer.csproj",
-      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\BusinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\BusinessLayer\\BusinessLayer.csproj",
+      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/BusinessLayer.dll": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\BusinessLayer\\bin\\placeholder\\netstandard1.4\\BusinessLayer.dll"
+        "lib/netstandard1.4/BusinessLayer.dll": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\BusinessLayer\\bin\\placeholder\\netstandard1.4\\BusinessLayer.dll"
       },
       "frameworks": {
         "netstandard1.4": {

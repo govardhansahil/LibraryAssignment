@@ -10,3 +10,17 @@ C:\Users\govardhan.nandi\Documents\LibraryAssignment\LibraryManagement\bin\Debug
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\LogInPage.pdb
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\BusinessLayer.dll
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\BusinessLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\LibraryManagement.deps.json
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\LibraryManagement.runtimeconfig.json
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\LibraryManagement.runtimeconfig.dev.json
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\LibraryManagement.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\LibraryManagement.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\BusinessLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\LogInPage.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\LogInPage.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\BusinessLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\obj\Debug\netcoreapp1.1\LibraryManagement.AssemblyInfo.cs
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\obj\Debug\netcoreapp1.1\LibraryManagement.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\obj\Debug\netcoreapp1.1\LibraryManagement.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\DataLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\LibraryManagement\bin\Debug\netcoreapp1.1\DataLayer.pdb

@@ -3727,22 +3727,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LogInPage\\LogInPage.csproj",
+      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LogInPage\\LogInPage.csproj",
       "projectName": "LogInPage",
-      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LogInPage\\LogInPage.csproj",
-      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LogInPage\\obj\\",
+      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LogInPage\\LogInPage.csproj",
+      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LogInPage\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/LogInPage.dll": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LogInPage\\bin\\placeholder\\netstandard1.4\\LogInPage.dll"
+        "lib/netstandard1.4/LogInPage.dll": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LogInPage\\bin\\placeholder\\netstandard1.4\\LogInPage.dll"
       },
       "frameworks": {
         "netstandard1.4": {
           "projectReferences": {
-            "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }

@@ -7080,22 +7080,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LibraryManagement\\LibraryManagement.csproj",
+      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LibraryManagement\\LibraryManagement.csproj",
       "projectName": "LibraryManagement",
-      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LibraryManagement\\LibraryManagement.csproj",
-      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LibraryManagement\\obj\\",
+      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LibraryManagement\\LibraryManagement.csproj",
+      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LibraryManagement\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/LibraryManagement.dll": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LibraryManagement\\bin\\placeholder\\netcoreapp1.1\\LibraryManagement.dll"
+        "lib/netcoreapp1.1/LibraryManagement.dll": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LibraryManagement\\bin\\placeholder\\netcoreapp1.1\\LibraryManagement.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LogInPage\\LogInPage.csproj": {
-              "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\LogInPage\\LogInPage.csproj"
+            "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LogInPage\\LogInPage.csproj": {
+              "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\LogInPage\\LogInPage.csproj"
             }
           }
         }

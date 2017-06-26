@@ -4,3 +4,9 @@ C:\Users\govardhan.nandi\Documents\LibraryAssignment\Datalayer\bin\Debug\netstan
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\Datalayer\obj\Debug\netstandard1.4\DataLayer.AssemblyInfo.cs
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\Datalayer\obj\Debug\netstandard1.4\DataLayer.dll
 C:\Users\govardhan.nandi\Documents\LibraryAssignment\Datalayer\obj\Debug\netstandard1.4\DataLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\Datalayer\bin\Debug\netstandard1.4\DataLayer.deps.json
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\Datalayer\obj\Debug\netstandard1.4\DataLayer.AssemblyInfo.cs
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\Datalayer\obj\Debug\netstandard1.4\DataLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\Datalayer\obj\Debug\netstandard1.4\DataLayer.pdb
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\Datalayer\bin\Debug\netstandard1.4\DataLayer.dll
+C:\Users\govardhan.nandi\Documents\Library Management\LibraryAssignment\Datalayer\bin\Debug\netstandard1.4\DataLayer.pdb

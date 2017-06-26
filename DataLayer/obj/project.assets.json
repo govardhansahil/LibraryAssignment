@@ -3708,16 +3708,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\Datalayer\\DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\Datalayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\Datalayer\\DataLayer.csproj",
-      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\Datalayer\\obj\\",
+      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\Datalayer\\DataLayer.csproj",
+      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\Datalayer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/DataLayer.dll": "C:\\Users\\govardhan.nandi\\Documents\\LibraryAssignment\\Datalayer\\bin\\placeholder\\netstandard1.4\\DataLayer.dll"
+        "lib/netstandard1.4/DataLayer.dll": "C:\\Users\\govardhan.nandi\\Documents\\Library Management\\LibraryAssignment\\Datalayer\\bin\\placeholder\\netstandard1.4\\DataLayer.dll"
       },
       "frameworks": {
         "netstandard1.4": {

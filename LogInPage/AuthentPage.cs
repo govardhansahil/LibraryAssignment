@@ -34,6 +34,24 @@ namespace LogInPage
             }while(x!=true);
         }
         public void Register(){
+            do{
+                Console.WriteLine("User Name: ");
+                string _username=Console.ReadLine();
+                Console.WriteLine("Display Name: ");
+                string _user=Console.ReadLine();
+                Console.WriteLine("Email: ");
+                string _userEmail=Console.ReadLine();
+                Console.WriteLine("Password: ");
+                string _userPassword=Console.ReadLine();
+                Console.WriteLine("Confirm Password: ");
+                string _temPass=Console.ReadLine();
+                if(_temPass==_userPassword){
+                    verify.InsertUserData(_username, _userEmail, _user, _userPassword);
+                    Console.WriteLine("successfully registered");
+                    x=true;
+                    }
+                else Console.WriteLine("Passwords didn't match, Register again!");
+            }while(x!=true);
 
 
         }
